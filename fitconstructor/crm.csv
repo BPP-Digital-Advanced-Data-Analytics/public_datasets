@@ -1,0 +1,251 @@
+user_id,email,number_of_visit,first_purchase_date,original_source
+0,m*****ka@yahoo.com,8,31/12/2021,offline
+1,m*******sa@gmail.com,4,22/12/2021,direct
+2,l******be@hotmail.com,2,01/03/2022,offline
+3,m******ki@hotmail.com,6,09/04/2021,offline
+4,k*****ta@gmail.com,10,26/07/2022,direct
+5,t******m64@yahoo.com,3,17/12/2021,direct
+6,d****r1@gmail.com,8,25/03/2021,direct
+7,r*****b65@gmail.com,8,18/04/2022,google ads
+8,c****be@gmail.com,7,16/12/2021,direct
+9,e******y70@hotmail.com,5,06/03/2022,google ads
+10,d****a@gmail.com,6,13/04/2021,offline
+11,g****fo@yahoo.com,3,15/02/2022,social media
+12,m******do@gmail.com,5,30/01/2022,direct
+13,b*****h62@gmail.com,0,22/08/2021,social media
+14,l****f@hotmail.com,1,09/01/2022,google ads
+15,m******ho@gmail.com,1,01/03/2022,offline
+16,b******m@hotmail.com,0,01/04/2022,offline
+17,m****ro22@yahoo.com,3,01/02/2022,offline
+18,s****gr@yahoo.com,2,05/02/2022,social media
+19,c****el@hotmail.com,14,14/02/2022,direct
+20,j*******g@gmail.com,6,11/12/2021,social media
+21,h*****pa@gmail.com,6,14/02/2022,offline
+22,s******ha4@gmail.com,6,02/02/2022,google ads
+23,m****wi@gmail.com,9,22/12/2021,offline
+24,l****a@gmail.com,4,28/12/2021,offline
+25,d*******d28@hotmail.com,2,06/01/2022,direct
+26,r*******st@gmail.com,9,06/01/2022,google ads
+27,d*******s33@gmail.com,5,19/01/2022,google ads
+28,m****a@hotmail.com,3,05/03/2022,google ads
+29,m*******an@gmail.com,7,06/11/2021,google ads
+30,p****jo@yahoo.com,8,25/02/2022,google ads
+31,f****t@hotmail.com,0,18/12/2021,offline
+32,t****b93@hotmail.com,1,08/01/2022,social media
+33,k*****pe@gmail.com,6,04/02/2022,direct
+34,o*******ca@gmail.com,8,07/12/2021,direct
+35,g*******m86@hotmail.com,2,08/11/2021,google ads
+36,d*****jo@hotmail.com,2,05/02/2022,offline
+37,a****c@hotmail.com,4,06/09/2022,direct
+38,d****do@hotmail.com,3,17/03/2022,direct
+39,d*******jo30@gmail.com,2,13/01/2022,google ads
+40,e*****ll@gmail.com,2,05/01/2022,google ads
+41,n*****th@gmail.com,5,04/01/2022,google ads
+42,m*****s49@yahoo.com,2,03/03/2022,social media
+43,c****bu89@yahoo.com,4,25/01/2022,social media
+44,c******p8@gmail.com,4,18/11/2021,offline
+45,g****do@gmail.com,6,02/02/2022,social media
+46,j*******r@gmail.com,2,20/12/2021,google ads
+47,r******hi82@yahoo.com,9,25/05/2021,social media
+48,c****m@gmail.com,2,28/05/2022,social media
+49,j******wh@hotmail.com,7,11/02/2022,google ads
+50,m******ge@hotmail.com,2,24/11/2021,google ads
+51,l******ba@gmail.com,5,02/11/2021,direct
+52,d*******jo@yahoo.com,7,22/12/2020,direct
+53,e******pa@yahoo.com,0,13/03/2021,direct
+54,m*****jo@gmail.com,13,05/02/2022,offline
+55,j******e@gmail.com,0,04/12/2021,google ads
+56,m****an75@yahoo.com,1,27/12/2021,offline
+57,d****ja@gmail.com,11,06/03/2021,offline
+58,m****p@hotmail.com,4,25/09/2022,direct
+59,k*****sm@yahoo.com,5,20/01/2022,offline
+60,c****s@hotmail.com,0,23/01/2021,social media
+61,m*******s@hotmail.com,9,25/07/2022,offline
+62,d****ki19@yahoo.com,3,15/11/2021,social media
+63,l*******i@gmail.com,7,04/11/2022,google ads
+64,d*****c81@gmail.com,2,05/10/2022,offline
+65,d*****sm@hotmail.com,3,25/04/2022,social media
+66,g****ma@yahoo.com,6,28/01/2022,social media
+67,m******l70@gmail.com,3,15/04/2021,social media
+68,e*****r37@hotmail.com,0,08/12/2021,offline
+69,d****le@hotmail.com,11,24/03/2022,direct
+70,b******w@gmail.com,5,17/03/2022,offline
+71,h*****ha@gmail.com,1,19/05/2021,google ads
+72,s*****s@gmail.com,5,09/12/2021,google ads
+73,s*****h@hotmail.com,3,30/01/2022,direct
+74,c*******w@gmail.com,2,19/06/2022,social media
+75,s*******w@gmail.com,0,22/04/2022,social media
+76,n*****p@gmail.com,4,23/10/2022,social media
+77,d*******gr@yahoo.com,8,08/12/2021,google ads
+78,r****r6@yahoo.com,11,13/03/2022,direct
+79,d*******a@yahoo.com,7,17/12/2021,direct
+80,v*******h99@gmail.com,8,23/12/2021,direct
+81,m****go@yahoo.com,0,05/01/2022,social media
+82,t*****bi@yahoo.com,5,12/12/2021,direct
+83,f*******c@hotmail.com,4,12/11/2021,offline
+84,m*****w@hotmail.com,8,22/01/2022,google ads
+85,s******sm@hotmail.com,4,01/11/2021,social media
+86,a*****h@yahoo.com,7,10/01/2022,offline
+87,c*******j48@yahoo.com,3,16/04/2022,offline
+88,d*****al@gmail.com,6,19/11/2021,direct
+89,k******d@gmail.com,7,17/11/2021,social media
+90,l*******pe@gmail.com,4,06/11/2021,google ads
+91,d*******h@gmail.com,3,26/03/2022,offline
+92,j******r@gmail.com,3,29/07/2021,google ads
+93,d******y@gmail.com,5,12/12/2021,direct
+94,a*******d@gmail.com,0,27/02/2022,google ads
+95,s*****l@hotmail.com,6,06/12/2021,google ads
+96,v******l@gmail.com,2,12/01/2022,direct
+97,o******d@gmail.com,9,22/11/2022,offline
+98,s*******ha@gmail.com,3,29/10/2022,google ads
+99,t******ar91@yahoo.com,7,18/11/2022,direct
+100,m*******m@gmail.com,5,18/02/2022,offline
+101,l****ki93@hotmail.com,0,03/03/2022,social media
+102,k*******h@gmail.com,3,07/01/2022,social media
+103,r******h@yahoo.com,12,08/02/2022,social media
+104,m****s71@gmail.com,4,11/12/2021,offline
+105,r*******ha29@yahoo.com,3,18/01/2022,offline
+106,m******e@gmail.com,2,09/03/2022,social media
+107,d******al3@hotmail.com,6,29/01/2022,offline
+108,d*****hu33@hotmail.com,2,21/11/2021,social media
+109,f*******d@gmail.com,7,13/08/2021,social media
+110,g****ca@gmail.com,4,15/01/2022,offline
+111,l******m@gmail.com,3,25/12/2021,direct
+112,d*****ca@gmail.com,0,17/03/2022,social media
+113,j******wr38@gmail.com,2,06/02/2022,direct
+114,l*****wa@hotmail.com,2,18/03/2021,offline
+115,f******wi@gmail.com,4,23/12/2021,google ads
+116,a*****be@yahoo.com,5,11/01/2022,google ads
+117,p*******wo41@gmail.com,1,05/02/2022,google ads
+118,d*****jo9@gmail.com,2,20/12/2021,offline
+119,s******w@hotmail.com,5,20/07/2022,direct
+120,h******wa@gmail.com,7,05/12/2021,offline
+121,s****ma@gmail.com,3,31/08/2022,social media
+122,j******le25@yahoo.com,4,06/12/2021,google ads
+123,m*******d@gmail.com,1,16/01/2022,offline
+124,r*******mo@gmail.com,5,19/08/2021,offline
+125,d*******j@gmail.com,4,17/07/2022,social media
+126,d******g@gmail.com,5,28/11/2021,offline
+127,o******b@yahoo.com,6,30/12/2021,offline
+128,m****d@gmail.com,6,20/12/2021,social media
+129,c******c22@yahoo.com,5,04/09/2022,social media
+130,a******ro@yahoo.com,7,20/12/2021,google ads
+131,r****m@gmail.com,5,11/12/2021,direct
+132,r*******f@gmail.com,5,28/09/2021,social media
+133,a******e@yahoo.com,5,21/09/2022,direct
+134,t*******h32@gmail.com,6,11/01/2022,google ads
+135,j******c@hotmail.com,2,03/05/2021,social media
+136,k*******w@gmail.com,3,24/09/2022,social media
+137,e*****co95@hotmail.com,2,22/01/2022,offline
+138,l******ow58@yahoo.com,4,27/10/2021,direct
+139,c*****ki@gmail.com,7,04/03/2022,social media
+140,j*******l@yahoo.com,7,08/12/2021,offline
+141,b****mo96@gmail.com,8,31/03/2022,social media
+142,k******wi@yahoo.com,5,17/12/2021,google ads
+143,e******s@hotmail.com,1,18/02/2022,offline
+144,m******k54@hotmail.com,4,14/01/2022,direct
+145,m*****c@gmail.com,4,04/12/2021,offline
+146,j******br@hotmail.com,7,25/12/2021,direct
+147,c******ho27@gmail.com,0,16/03/2022,offline
+148,s*****ev@yahoo.com,4,25/11/2021,direct
+149,c*****mi@hotmail.com,7,15/05/2022,social media
+150,a*****we@gmail.com,4,07/03/2021,social media
+151,j*******ar@gmail.com,4,10/02/2022,social media
+152,r****my@hotmail.com,0,03/07/2021,direct
+153,t****t@gmail.com,3,18/11/2021,social media
+154,m******ad@hotmail.com,4,19/09/2022,social media
+155,j****ba48@hotmail.com,10,27/02/2022,offline
+156,d******t46@gmail.com,2,19/02/2022,google ads
+157,d*******gi1@yahoo.com,8,20/03/2022,google ads
+158,j*****ta@hotmail.com,5,12/02/2022,social media
+159,e*****de43@hotmail.com,0,23/11/2021,offline
+160,a*****hu73@gmail.com,4,28/02/2022,google ads
+161,v*****f@hotmail.com,1,01/12/2021,offline
+162,p*****j77@gmail.com,12,08/05/2021,social media
+163,r*****f@gmail.com,8,09/01/2022,offline
+164,m*******ph33@gmail.com,4,09/12/2021,google ads
+165,w****ba@yahoo.com,9,22/04/2022,google ads
+166,m*****ki18@hotmail.com,4,21/02/2022,direct
+167,c*****b@yahoo.com,0,07/07/2021,google ads
+168,n*****w@hotmail.com,14,03/01/2022,direct
+169,b*******hu@gmail.com,3,26/03/2022,direct
+170,t******gi73@gmail.com,6,08/02/2022,offline
+171,s*****f26@gmail.com,5,16/02/2022,direct
+172,m****wi@hotmail.com,8,18/12/2021,offline
+173,a******b75@gmail.com,4,08/12/2021,offline
+174,k****q@yahoo.com,4,15/01/2022,social media
+175,d******br32@gmail.com,9,23/09/2022,social media
+176,l****j@yahoo.com,3,24/02/2022,offline
+177,m*******a61@gmail.com,6,15/01/2022,google ads
+178,c*******gr@hotmail.com,7,15/12/2021,offline
+179,c*****w@gmail.com,7,12/02/2022,offline
+180,h*******kh@yahoo.com,3,31/08/2021,direct
+181,k*****wo@hotmail.com,10,01/12/2021,direct
+182,c*******bo3@gmail.com,5,24/04/2022,google ads
+183,m****m@yahoo.com,3,18/06/2021,direct
+184,d****ph@hotmail.com,3,05/03/2022,direct
+185,r*****y@yahoo.com,1,21/11/2021,offline
+186,j*****n@gmail.com,9,06/04/2022,direct
+187,r*******w@gmail.com,5,15/03/2022,offline
+188,m*****h23@yahoo.com,8,07/03/2022,direct
+189,j****ho@gmail.com,4,09/11/2021,social media
+190,g*******ga@gmail.com,4,23/06/2022,google ads
+191,c*****l@gmail.com,1,11/01/2022,social media
+192,r*******wh35@gmail.com,3,26/01/2022,google ads
+193,m*******wa@gmail.com,5,12/02/2022,google ads
+194,c*******s@gmail.com,1,12/03/2022,google ads
+195,d*******l@gmail.com,0,25/02/2022,social media
+196,w*******cl40@yahoo.com,2,21/12/2021,offline
+197,m******m32@hotmail.com,4,21/12/2021,direct
+198,z****w@hotmail.com,4,26/09/2022,direct
+199,d*****b@hotmail.com,5,20/12/2021,google ads
+200,p*******jo@hotmail.com,3,22/10/2022,direct
+201,b*******fl@yahoo.com,0,18/11/2021,social media
+202,b*****w64@gmail.com,3,30/12/2021,google ads
+203,g****da@gmail.com,3,28/01/2022,direct
+204,m******ho91@hotmail.com,2,12/04/2021,social media
+205,c*****h@hotmail.com,0,04/03/2021,direct
+206,g****po40@hotmail.com,3,01/02/2022,offline
+207,m*******r@yahoo.com,2,03/03/2022,offline
+208,j****fi@yahoo.com,2,05/06/2022,offline
+209,a******gr34@gmail.com,11,07/01/2022,social media
+210,s*****be@hotmail.com,1,09/12/2021,social media
+211,e*******bu@gmail.com,5,11/01/2022,offline
+212,p*****wh@gmail.com,3,16/01/2022,offline
+213,m******d@yahoo.com,4,25/06/2022,social media
+214,k*******ho@gmail.com,4,18/01/2022,google ads
+215,r****c@gmail.com,5,16/09/2022,direct
+216,k******mi79@gmail.com,4,21/08/2022,social media
+217,m*******m@gmail.com,3,24/06/2021,social media
+218,m*****ha78@yahoo.com,0,19/12/2021,google ads
+219,r******ke@gmail.com,3,18/05/2022,google ads
+220,c******jo@yahoo.com,5,26/01/2022,offline
+221,g*******o'@hotmail.com,4,04/02/2022,google ads
+222,d*******h@yahoo.com,4,18/01/2022,google ads
+223,d****j48@yahoo.com,10,01/01/2022,direct
+224,c******k68@yahoo.com,8,17/02/2022,direct
+225,d*******b@hotmail.com,4,05/12/2021,offline
+226,s******gr@gmail.com,4,22/12/2021,direct
+227,j****ha47@hotmail.com,0,12/06/2022,social media
+228,d*******d@yahoo.com,10,04/12/2021,offline
+229,c*****t@gmail.com,8,19/02/2022,social media
+230,d*******m@hotmail.com,9,28/12/2021,direct
+231,m*******m@gmail.com,3,23/05/2022,offline
+232,i*****e@hotmail.com,4,30/06/2021,google ads
+233,m*******al@hotmail.com,2,05/10/2021,google ads
+234,p****su22@hotmail.com,4,01/01/2022,offline
+235,a******ki@yahoo.com,4,08/01/2022,social media
+236,j*******r@gmail.com,1,02/12/2021,social media
+237,d******d10@gmail.com,4,26/07/2021,social media
+238,m****c@yahoo.com,2,02/01/2022,social media
+239,m******sh@gmail.com,5,27/01/2022,google ads
+240,m*****p2@yahoo.com,6,29/08/2021,google ads
+241,c*****pe@yahoo.com,7,27/09/2022,social media
+242,p******b16@yahoo.com,7,28/11/2021,offline
+243,d******ne@hotmail.com,7,23/12/2021,social media
+244,j******n@yahoo.com,3,07/02/2022,direct
+245,m******j16@yahoo.com,4,11/11/2021,direct
+246,e*******l@gmail.com,5,30/11/2021,social media
+247,m******vi77@yahoo.com,3,27/06/2022,offline
+248,s*******gr@hotmail.com,1,04/12/2021,direct
+249,f*****pa45@hotmail.com,0,09/02/2022,google ads

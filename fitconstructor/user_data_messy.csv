@@ -1,8 +1,8 @@
 user_id,name,gender,address,date_of_birth,email_address,height_cm,weight_kg,account_create_date,bike_serial
 0,Mrs Katie Hudson,female,"979 Marcus mall,Mitchellside,B5 9PA",23/10/1960,m*****ka@yahoo.com,171,49,02/03/2022,SN0000
-1,Mr Sam Simmons,male,"Studio 77U,Arthur lock,Tomchester,B22 4DL",25/09/1995,m*******sa@gmail.com,,53,29/01/2022,SN0001
 1,Mr Sam Simmons,male,"Studio 77U,Arthur lock,Tomchester,B22 4DL",25/09/1995,m*******sa@gmail.com,164,53,29/01/2022,SN0001
-2,Lorraine Bentley,female,"Flat 89,Williams avenue,Katieville,SE10 0JT",22/03/1966,l******be@hotmail.com,177,87,13/03/2022,SN0002
+1,Mr Sam Simmons,male,"Studio 77U,Arthur lock,Tomchester,B22 4DL",25/09/1995,m*******sa@gmail.com,164,53,29/01/2022,SN0001
+2,Lorraine Bentley,female,"Flat 89,Williams avenue,Katieville,SE10 0JT",22/03/1966,l******be@hotmail.com,,87,13/03/2022,SN0002
 3,Ms Kimberley Walker,female,"6 Cameron freeway,Beverleymouth,HD94 8BE",22/04/1975,m******ki@hotmail.com,179,76,05/12/2021,SN0003
 4,Kimberley Taylor,female,"Flat 0,Thomas trace,New Tom,E0 3BZ",20/04/1978,k*****ta@gmail.com,182,82,09/02/2022,SN0004
 5,Tony Moore,male,"Flat 4,Miah plaza,New Judithville,L0T 2RT",10/11/2001,t******m64@yahoo.com,181,75,21/01/2022,SN0005

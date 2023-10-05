@@ -3,196 +3,196 @@
   <employee>
     <name>Niki Barth</name>
     <role>CEO</role>
-    <department>Unknown</department>
+    <salary>60,000</salary>
   </employee>
   <employee>
     <name>Garry Coopper</name>
     <role>CTO</role>
-    <department>Unknown</department>
+    <salary>60,000</salary>
   </employee>
   <employee>
     <name>Chip Grimston</name>
     <role>CMO</role>
-    <department>Unknown</department>
+    <salary>60,000</salary>
   </employee>
   <employee>
     <name>Jessalyn Mundle</name>
     <role>Director of Finance</role>
-    <department>Unknown</department>
+    <salary>70,000</salary>
   </employee>
   <employee>
     <name>Jeremie Varrow</name>
     <role>Director of Operations</role>
-    <department>Unknown</department>
+    <salary>64,000</salary>
   </employee>
   <employee>
     <name>Britt Ferrarin</name>
     <role>Chief Scientist</role>
-    <department>Unknown</department>
+    <salary>67,000</salary>
   </employee>
   <employee>
     <name>Colene Markos</name>
     <role>Scientist</role>
-    <department>Unknown</department>
+    <salary>34,000</salary>
   </employee>
   <employee>
     <name>Haven Jennery</name>
     <role>Engineer</role>
-    <department>Unknown</department>
+    <salary>31,000</salary>
   </employee>
   <employee>
     <name>Cariotta Riseborough</name>
     <role>Engineer</role>
-    <department>Unknown</department>
+    <salary>35,000</salary>
   </employee>
   <employee>
     <name>Andreana McCorkell</name>
     <role>Office Administrator</role>
-    <department>Unknown</department>
+    <salary>27,000</salary>
   </employee>
   <employee>
     <name>Joly Pardue</name>
     <role>Head of Production &amp; Maintenance</role>
-    <department>Unknown</department>
+    <salary>35,000</salary>
   </employee>
   <employee>
     <name>Jordan Train</name>
     <role>Software Engineer</role>
-    <department>Unknown</department>
+    <salary>53,000</salary>
   </employee>
   <employee>
     <name>Kinnie Charlot</name>
     <role>Engineer Manager</role>
-    <department>Unknown</department>
+    <salary>46,000</salary>
   </employee>
   <employee>
     <name>Colan Woodes</name>
     <role>Technician</role>
-    <department>Unknown</department>
+    <salary>28,000</salary>
   </employee>
   <employee>
     <name>Lenard Maskall</name>
     <role>Lead Software Engineer</role>
-    <department>Unknown</department>
+    <salary>75,000</salary>
   </employee>
   <employee>
     <name>Toby McIlwreath</name>
     <role>Head of HR</role>
-    <department>Unknown</department>
+    <salary>67,000</salary>
   </employee>
   <employee>
     <name>Georgette Hebson</name>
     <role>Product Manager</role>
-    <department>Unknown</department>
+    <salary>42,000</salary>
   </employee>
   <employee>
     <name>Charo McLennan</name>
     <role>Head of Quality</role>
-    <department>Unknown</department>
+    <salary>29,000</salary>
   </employee>
   <employee>
     <name>Kellen Shears</name>
     <role>Engineer</role>
-    <department>Unknown</department>
+    <salary>33,000</salary>
   </employee>
   <employee>
     <name>Amil Scanes</name>
     <role>Technician</role>
-    <department>Unknown</department>
+    <salary>26,000</salary>
   </employee>
   <employee>
     <name>Katlin Mowatt</name>
     <role>Head of Logistics &amp; Planning</role>
-    <department>Unknown</department>
+    <salary>29,000</salary>
   </employee>
   <employee>
     <name>Lolly Hawkey</name>
     <role>Junior Software Engineer</role>
-    <department>Unknown</department>
+    <salary>26,000</salary>
   </employee>
   <employee>
     <name>Andreana McCorkell</name>
     <role>Head of Business Development</role>
-    <department>Unknown</department>
+    <salary>31,000</salary>
   </employee>
   <employee>
     <name>Tera Gurge</name>
     <role>Marketing Executive</role>
-    <department>Unknown</department>
+    <salary>27,000</salary>
   </employee>
   <employee>
     <name>Liliane Steeden</name>
     <role>Sales Rep</role>
-    <department>Unknown</department>
+    <salary>22,000</salary>
   </employee>
   <employee>
     <name>Karlan Sandercroft</name>
     <role>Customer Service Executive</role>
-    <department>Unknown</department>
+    <salary>22,000</salary>
   </employee>
   <employee>
     <name>Esdras Loudon</name>
     <role>Marketing Executive</role>
-    <department>Unknown</department>
+    <salary>29,000</salary>
   </employee>
   <employee>
     <name>Gran Timmis</name>
     <role>Sales Rep</role>
-    <department>Unknown</department>
+    <salary>22,000</salary>
   </employee>
   <employee>
     <name>Emilie Plinck</name>
     <role>Customer Service Executive</role>
-    <department>Unknown</department>
+    <salary>26,000</salary>
   </employee>
   <employee>
     <name>Glenda Schlagman</name>
     <role>Sales Rep</role>
-    <department>Unknown</department>
+    <salary>22,000</salary>
   </employee>
   <employee>
     <name>Tamma Lewis</name>
     <role>HR Assistant</role>
-    <department>Unknown</department>
+    <salary>23,000</salary>
   </employee>
   <employee>
     <name>Cinderella Lympenie</name>
     <role>Marketing Executive</role>
-    <department>Unknown</department>
+    <salary>29,000</salary>
   </employee>
   <employee>
     <name>Reagen Amey</name>
     <role>Planning Manager</role>
-    <department>Unknown</department>
+    <salary>23,000</salary>
   </employee>
   <employee>
     <name>Nestor Janway</name>
     <role>Apprentice Engineer</role>
-    <department>Unknown</department>
+    <salary>24,000</salary>
   </employee>
   <employee>
     <name>Beniamino Aykroyd</name>
     <role>Data Steward</role>
-    <department>Unknown</department>
+    <salary>58,000</salary>
   </employee>
   <employee>
     <name>Rickie Peattie</name>
     <role>Scientist</role>
-    <department>Unknown</department>
+    <salary>37,000</salary>
   </employee>
   <employee>
     <name>Adelbert MacKellar</name>
     <role>Planning Manager</role>
-    <department>Unknown</department>
+    <salary>24,000</salary>
   </employee>
   <employee>
     <name>Olvan Wasmuth</name>
     <role>Sales Rep</role>
-    <department>Unknown</department>
+    <salary>22,000</salary>
   </employee>
   <employee>
     <name>Theodoric Hambric</name>
     <role>Marketing Executive</role>
-    <department>Unknown</department>
+    <salary>29,000</salary>
   </employee>
 </company>

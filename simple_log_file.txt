@@ -1,3 +1,48 @@
 2023-01-02 10:00:00, INFO, User John logged in.
-2023-01-02 10:15:23, ERROR, Failed login attempt.
-2023-01-02 11:00:45, INFO, User Emily logged out.
+2023-01-02 10:05:10, INFO, User Priya logged in.
+2023-01-02 10:08:45, INFO, User Aisha logged in.
+2023-01-02 10:12:30, INFO, User Alex logged out.
+2023-01-02 10:15:23, INFO, User Oliver logged in.
+2023-01-02 10:18:56, INFO, User Nia logged in.
+2023-01-02 10:20:34, INFO, User Liam logged out.
+2023-01-02 10:22:47, INFO, User Sophia logged in.
+2023-01-02 10:25:09, INFO, User Ethan logged out.
+2023-01-02 10:27:53, INFO, User Mia logged in.
+2023-01-02 10:30:21, INFO, User Noah logged out.
+2023-01-02 10:32:00, INFO, User Isla logged in.
+2023-01-02 10:34:45, INFO, User Mohammed logged out.
+2023-01-02 10:37:19, INFO, User Ava logged in.
+2023-01-02 10:40:03, INFO, User James logged out.
+2023-01-02 10:42:58, INFO, User Emily logged out.
+2023-01-02 10:45:30, INFO, User Freya logged in.
+2023-01-02 10:48:15, INFO, User Jacob logged in.
+2023-01-02 10:50:00, ERROR, Failed login attempt by User Tom.
+2023-01-02 10:51:45, ERROR, Failed login attempt by User Tom.
+2023-01-02 10:53:30, ERROR, Failed login attempt by User Tom.
+2023-01-02 10:55:00, WARNING, User Tom has been issued a warning for multiple failed login attempts.
+2023-01-02 10:57:15, ERROR, User Charlotte failed to log in due to system error.
+2023-01-02 10:59:30, ERROR, User Harry failed to log in due to system error.
+2023-01-02 11:00:45, ERROR, User Amelia failed to log in due to system error.
+2023-01-02 11:02:00, ERROR, User Jack failed to log in due to system error.
+2023-01-02 11:04:15, ERROR, User Lucy failed to log in due to system error.
+2023-01-02 11:06:30, ERROR, User George failed to log in due to system error.
+2023-01-02 11:08:45, ERROR, User Isabella failed to log in due to system error.
+2023-01-02 11:11:00, ERROR, User Oscar failed to log in due to system error.
+2023-01-02 11:13:15, ERROR, User Lily failed to log in due to system error.
+2023-01-02 11:15:30, ERROR, User Muhammad failed to log in due to system error.
+2023-01-02 11:17:45, ERROR, User Grace failed to log in due to system error.
+2023-01-02 11:20:00, ERROR, User Leo failed to log in due to system error.
+2023-01-02 11:22:15, ERROR, User Ella failed to log in due to system error.
+2023-01-02 11:24:30, ERROR, User Alfie failed to log in due to system error.
+2023-01-02 11:26:45, ERROR, User Rosie failed to log in due to system error.
+2023-01-02 11:29:00, ERROR, User Charlie failed to log in due to system error.
+2023-01-02 11:31:15, ERROR, User Sophia failed to log in due to system error.
+2023-01-02 11:33:30, ERROR, User Kyle failed to log in due to system error.
+2023-01-02 11:35:45, ERROR, User Zoe failed to log in due to system error.
+2023-01-02 11:38:00, ERROR, User Ryan failed to log in due to system error.
+2023-01-02 11:40:15, ERROR, User Chloe failed to log in due to system error.
+2023-01-02 11:42:30, ERROR, User Daniel failed to log in due to system error.
+2023-01-02 11:44:45, ERROR, User Ruby failed to log in due to system error.
+2023-01-02 11:47:00, ERROR, User Max failed to log in due to system error.
+2023-01-02 11:49:15, ERROR, User Tanya failed to log in due to system error.
+2023-01-02 11:51:30, ERROR, User Sam failed to log in due to system error.

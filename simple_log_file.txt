@@ -1,0 +1,3 @@
+2023-01-02 10:00:00, INFO, User John logged in.
+2023-01-02 10:15:23, ERROR, Failed login attempt.
+2023-01-02 11:00:45, INFO, User Emily logged out.
